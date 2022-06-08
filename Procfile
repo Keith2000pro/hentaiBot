@@ -1,1 +1,1 @@
-worker: python3 telegram-hentai.py
+worker: python telegram-hentai.py
